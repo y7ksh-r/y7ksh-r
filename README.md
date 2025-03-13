@@ -41,20 +41,10 @@ Currently, I’m working on an **advanced DevOps project** focused on **automati
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark" height="180"/>
-</p>
-
----
-
 ## 🔥 DevOps Projects  
 
 - **Automating Nginx Deployment** *(Docker + Kubernetes)* → [Repository](https://github.com/y7ksh-r/Nginx-Deployment-using-Docker-and-K8s)
-- **Terraform-Based Cloud Infrastructure** *(AWS + S3 + RDS + IAM + CI/CD)* → [Repository](https://github.com/y7ksh-r/terraform-remote-state-management)
-- **Terraform-Based Cloud Infrastructure** *(AWS + S3 + RDS + IAM + CI/CD)* → *(In Progress)*  
+- **Terraform-Based Cloud Infrastructure** *(AWS + S3 + RDS + IAM + CI/CD)* → [Repository](https://github.com/y7ksh-r/terraform-remote-state-management) 
 - **Automated Food Delivery App Deployment** *(Kubernetes + AWS Free Tier)* → *(In Progress)*  
 - **More projects coming soon...**  
 
