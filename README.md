@@ -1,6 +1,6 @@
-### Hi, I'm [Yaksh Rajput](https://www.linkedin.com/in/yaksh7/) 👋   
+# <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/yaksh7" > Yaksh Rajput</a> 👋</h1>  
 
-## 🚀 DevOps | Cloud | Infrastructure as Code  
+## 🚀 DevOps | Cloud | IaC 
 
 I'm a **DevOps enthusiast** passionate about **building scalable, automated, and secure cloud infrastructure**. I love working with **Kubernetes, Terraform, AWS/GCP, CI/CD pipelines, and monitoring tools** to streamline deployments and enhance system reliability.  
 
