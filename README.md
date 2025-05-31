@@ -56,7 +56,7 @@ Currently, I’m working on an **advanced DevOps project** focused on **automati
   <a href="https://www.linkedin.com/in/yaksh7/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60"/>
   </a>
-  <a href="mailto:y7178435@gmail.com">
+  <a href="mailto:yakshrajput77@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="60"/>
   </a>
 </p>
