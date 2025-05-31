@@ -45,7 +45,7 @@ Currently, I’m working on an **advanced DevOps project** focused on **automati
 
 - **Automating Nginx Deployment** *(Docker + Kubernetes)* → [Repository](https://github.com/y7ksh-r/Nginx-Deployment-using-Docker-and-K8s)
 - **Terraform-Based Cloud Infrastructure** *(AWS + S3 + RDS + IAM + CI/CD)* → [Repository](https://github.com/y7ksh-r/terraform-remote-state-management) 
-- **Automated Food Delivery App Deployment** *(Kubernetes + AWS Free Tier)* → *(In Progress)*  
+- **Automated Real Estate App Deployment** *(Kubernetes + AWS Free Tier)* → [Repository](https://github.com/y7ksh-r/Real-Estate)   
 - **More projects coming soon...**  
 
 ---
