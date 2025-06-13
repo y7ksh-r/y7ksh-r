@@ -30,13 +30,14 @@ Currently, I’m working on an **advanced DevOps project** focused on **automati
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-plain.svg" height="50"/>
 </p>
 
 ### **Version Control & Scripting**  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/> 
 </p>
 
 ---
@@ -44,8 +45,9 @@ Currently, I’m working on an **advanced DevOps project** focused on **automati
 ## 🔥 DevOps Projects  
 
 - **Automating Nginx Deployment** *(Docker + Kubernetes)* → [Repository](https://github.com/y7ksh-r/Nginx-Deployment-using-Docker-and-K8s)
-- **Terraform-Based Cloud Infrastructure** *(AWS + S3 + RDS + IAM + CI/CD)* → [Repository](https://github.com/y7ksh-r/terraform-remote-state-management) 
-- **Automated Real Estate App Deployment** *(Docker Optimization + Terraform infrastructure + Kubernetes + AWS Free Tier)* → [Repository](https://github.com/y7ksh-r/Real-Estate)   
+- **Terraform Remote State Management** *(AWS + S3 + RDS + IAM)* → [Repository](https://github.com/y7ksh-r/terraform-remote-state-management) 
+- **Automated Real Estate App Deployment** *(Docker Optimization + Terraform infrastructure + Kubernetes + AWS Free Tier)* → [Repository](https://github.com/y7ksh-r/Real-Estate)
+- **ELK Stack Project** *(ELK stack + Filebeat logs Monitoring)* → [Repository](https://github.com/y7ksh-r/ELK-Stack-Project)
 - **More projects coming soon...**  
 
 ---
@@ -58,5 +60,11 @@ Currently, I’m working on an **advanced DevOps project** focused on **automati
   </a>
   <a href="mailto:yakshrajput77@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="60"/>
+  </a>
+  <a href="https://medium.com/@yakshrajput77">
+    <img src="https://api.iconify.design/simple-icons:medium.svg?color=white" width="60" height="60" style="object-fit: contain;" />
+  </a>
+  <a href="https://dev.to/yakshrajput7">
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" width="60" height="60" style="background-color: black; object-fit: contain;" />
   </a>
 </p>
