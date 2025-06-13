@@ -46,7 +46,7 @@ Currently, I’m working on an **advanced DevOps project** focused on **automati
 
 - **Automating Nginx Deployment** *(Docker + Kubernetes)* → [Repository](https://github.com/y7ksh-r/Nginx-Deployment-using-Docker-and-K8s)
 - **Terraform Remote State Management** *(AWS + S3 + RDS + IAM)* → [Repository](https://github.com/y7ksh-r/terraform-remote-state-management) 
-- **Automated Real Estate App Deployment** *(Docker Optimization + Terraform infrastructure + Kubernetes + AWS Free Tier)* → [Repository](https://github.com/y7ksh-r/Real-Estate)
+- **Real Estate App Deployment** *(Docker Optimization + Terraform infrastructure + Kubernetes + AWS Free Tier)* → [Repository](https://github.com/y7ksh-r/Real-Estate)
 - **ELK Stack Project** *(ELK stack + Filebeat logs Monitoring)* → [Repository](https://github.com/y7ksh-r/ELK-Stack-Project)
 - **More projects coming soon...**  
 
